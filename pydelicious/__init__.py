@@ -75,7 +75,7 @@ DLCS_API_REALM = 'del.icio.us API'
 DLCS_API_HOST = 'api.del.icio.us'
 DLCS_API_PATH = 'v1'
 DLCS_API = "https://%s/%s" % (DLCS_API_HOST, DLCS_API_PATH)
-DLCS_RSS = 'http://feeds.delicious.com/rss/'
+DLCS_RSS = 'https://previous.delicious.com/v2/rss'
 "Old RSS feeds, formerly <http://del.icio.us/rss/>"
 DLCS_FEEDS = 'http://feeds.delicious.com/v2/'
 
